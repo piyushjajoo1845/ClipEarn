@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar"
-import HomePage from "./pages/Homepage"
+import HomePage from "./pages/HomePage";
 
 //smooth scroll
 import gsap from "gsap";
